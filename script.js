@@ -35,7 +35,7 @@ currentLocation.addEventListener("click", function () {
 });
 
 function fetchWeatherData(locationValue) {
-  const apiKey = ""; //Replace with your OpenWeatherMap API key
+  const apiKey = "API KEY"; //Replace with your OpenWeatherMap API key
   const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${locationValue}&units=metric&appid=${apiKey}`;
 
   fetch(apiUrl)
@@ -54,7 +54,7 @@ function fetchWeatherData(locationValue) {
 }
 
 function fetchWeatherDataByCoordinates(lat, lon) {
-  const apiKey = ""; // Replace with your OpenWeatherMap API key
+  const apiKey = "API KEY"; // Replace with your OpenWeatherMap API key
   const apiUrl = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&units=metric&appid=${apiKey}`;
 
   fetch(apiUrl)
