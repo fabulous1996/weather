@@ -1,5 +1,5 @@
 # weather
-Weather app made with HTML, CSS and JS and Open Weather API. You simply have to type the name of the city that you'd like to know the weather, then the app returns the current temperature, and current weather
+Weather app made with HTML, CSS and JS and Open Weather API. You simply have to type the name of the city that you'd like to know the weather, then the app returns the current temperature, and current weather. You can also have acces to your location weather.
 
 ![alt text](bogota.png)
 ![alt text](karachi.png)
