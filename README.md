@@ -3,4 +3,4 @@ Weather app made with HTML, CSS and JS and Open Weather API. You simply have to 
 
 ![alt text](bogota.png)
 ![alt text](karachi.png)
-![alt text](karachi.png)
+![alt text](kigali.png)
